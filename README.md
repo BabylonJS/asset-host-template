@@ -4,8 +4,8 @@
 
 1. Use GitHub to create `your-asset-repo` from this template
 2. In the directory in which you want to develop, clone `your-asset-repo`
-3. `cd your-new-repo`
-4. `npm install`: NPM will install required dependencies for all projects
+3. `cd your-asset-repo`
+4. `npm install`: NPM will install required dependencies
 5. `npm run dev`: NPM will serve this repos "docs" folder as an asset host on port 8181
 
 You can now add your own assets to the "docs" directory to be hosted 
